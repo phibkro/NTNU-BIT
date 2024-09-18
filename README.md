@@ -7,10 +7,10 @@ My work completing my Bachelor in Informatics at NTNU
 - TDT4100 - Object-Oriented Programming
   - Project assignment [Connect-4 - GitHub](https://github.com/phibkro/connect4-javafx)
 - IT2810 - Web Development
-  - 1. project
+  - Project 1
     - [Filmder - GitHub](https://github.com/phibkro/filmder)
     - [Filmder - Vercel](https://filmder.vercel.app/)
-  - 2. project [DrinkDB - GitHub](https://github.com/phibkro/drinks)
+  - Project 2 [DrinkDB - GitHub](https://github.com/phibkro/drinks)
 
 ## 2. semester | 2024 Q1-Q2
 
