@@ -25,3 +25,8 @@ My work completing my Bachelor in Informatics at NTNU
   - Coding assignments [AlgDat Assignments - GitHub](https://github.com/phibkro/algdat_assignments)
 - TDT4136 - Introduction to Artificial Intelligence
   - Coding assignments [TDT4136 - GitHub](https://github.com/phibkro/TDT4136)
+
+## 4. semester | 2025 Q1-Q2
+
+- TDT4186 - Operating Systems
+  - [Assignments - GitHub](https://github.com/phibkro/tdt4186)
