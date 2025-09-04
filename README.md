@@ -10,8 +10,9 @@ My work completing my Bachelor in Informatics at NTNU
 ## 5. semester | 2025 Fall Q3-Q4
 
 - [TDT4165](https://www.ntnu.no/studier/emner/TDT4165/2025) Programming Languages
-  - [TDT4165 - GitHub](https://github.com/phibkro/TDT4165)
+  - My Code Repository [TDT4165 - GitHub](https://github.com/phibkro/TDT4165)
 - [TDT4258](https://www.ntnu.no/studier/emner/TDT4258/2025) Low-Level (Embedded) Programming
+  - My Code Repository [TDT4258 - GitHub](https://github.com/phibkro/TDT4258)
 - [TDT4290](https://www.ntnu.no/studier/emner/TDT4290) Customer Driven Project
 
 ## 4. semester | 2025 Spring Q1-Q2
